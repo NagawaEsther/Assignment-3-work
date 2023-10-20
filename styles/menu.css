@@ -1,0 +1,7 @@
+body{
+    background-color:cyan;
+    display: flex;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
