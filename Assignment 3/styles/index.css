@@ -1,0 +1,14 @@
+body{
+    background-color: darkgoldenrod;
+    background-image: url(../images/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-color: brown;
+}
+h1{
+    background-color: blue;
+}
+p{
+    background-color: chartreuse;
+}
